@@ -7,3 +7,4 @@
 [Työaikakirjanpito](https://github.com/tugee/ohtu-miniprojekti/blob/main/dokumentaatio/Tyoaikakirjanpito.md)  
 [Testikattavuus](https://app.codecov.io/gh/tugee/ohtu-miniprojekti/)
 
+
